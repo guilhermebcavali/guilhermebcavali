@@ -6,6 +6,9 @@
 🍎 I'm currently a participant in the Apple Developer Academy program in Brazil</br>
 💻 I'm currently learning and working with iOS Stack Technologies, like Swift, UIKit, SwiftUI...
 
+## ⚠️ My iOS Repos:
+
+For privacy and confidentiality reasons, all my repositories using Apple’s Swift language are private. However, you can check out my projects at the portfolio link below!
 
 ## My Portfolio:
 
