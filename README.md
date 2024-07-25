@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hey, folks! 
 
-<!--
-**guilhermebcavali/guilhermebcavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I'm Guilherme Cavali! Welcome to my GitHub profile!</h3>
 
-Here are some ideas to get you started:
+👨‍💻 I am a Software Engineer student at Pontifical Catholic University of Rio Grande do Sul (PUCRS)</br>
+🍎 I'm currently a participant in the Apple Developer Academy program in Brazil</br>
+💻 I'm currently learning and working with iOS Stack Technologies, like Swift, UIKit, SwiftUI...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## My Portfolio:
+
+👉 You can see a bit more of my work by visiting my portfolio at this link: https://bit.ly/my-apps-portfolio
+
+
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebcavali&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebcavali&layout=compact)
 -->
