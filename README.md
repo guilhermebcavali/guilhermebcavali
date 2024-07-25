@@ -11,6 +11,13 @@
 
 👉 You can see a bit more of my work by visiting my portfolio at this link: https://bit.ly/my-apps-portfolio
 
+## My Tech Stack (for now 😏)
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebcavali&show_icons=true&theme=radical)
 
