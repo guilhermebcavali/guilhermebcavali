@@ -23,6 +23,11 @@ For privacy and confidentiality reasons, all my repositories using Apple’s Swi
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+## You can find me on:
+
+- WhatsApp: +55 (51) 99603-7122
+- Linkedin: www.linkedin.com/in/guilherme-borges-cavali-b07039212
+- Gmail: guilhermebcavali@gmail.com
 <!---
 ![snake animation](https://github.com/<guilhermebcavali>/<guilhermebcavali>/blob/output/github-contribution-grid-snake.gif)
 
