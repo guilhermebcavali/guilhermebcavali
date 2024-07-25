@@ -19,9 +19,10 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-![snake animation](https://github.com/<guilhermebcavali>/<guilhermebcavali>/blob/output/github-contribution-grid-snake2.svg)
+<!---
+![snake animation](https://github.com/<guilhermebcavali>/<guilhermebcavali>/blob/output/github-contribution-grid-snake.gif)
 
-<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebcavali&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebcavali&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebcavali&layout=compact)
 -->
