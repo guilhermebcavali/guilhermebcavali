@@ -23,6 +23,8 @@ For privacy and confidentiality reasons, all my repositories using Apple’s Swi
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebcavali&layout=compact)
+
 ## You can find me on:
 
 - WhatsApp: +55 (51) 99603-7122
@@ -33,5 +35,4 @@ For privacy and confidentiality reasons, all my repositories using Apple’s Swi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebcavali&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebcavali&layout=compact)
 -->
