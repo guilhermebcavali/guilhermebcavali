@@ -2,7 +2,7 @@
 
 <h3>I'm Guilherme Cavali! Welcome to my GitHub profile!</h3>
 
-💻 I'm currently working with iOS Stack Technologies: Swift, UIKit, SwiftUI, API Rest, JSON data manipulations, MVVM, MVC, ViewCode..
+💻 I'm currently working with iOS Stack Technologies: Swift, UIKit, SwiftUI, MVVM, MVC, ViewCode..</br>
 🍎 I'm currently a participant in the Apple Developer Academy program in Brazil</br>
 👨‍💻 I am a Software Engineer student at Pontifical Catholic University of Rio Grande do Sul (PUCRS)</br>
 
