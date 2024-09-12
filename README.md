@@ -4,7 +4,7 @@
 
 👨‍💻 I am a Software Engineer student at Pontifical Catholic University of Rio Grande do Sul (PUCRS)</br>
 🍎 I'm currently a participant in the Apple Developer Academy program in Brazil</br>
-💻 I'm currently learning and working with iOS Stack Technologies, like Swift, UIKit, SwiftUI...
+💻 I'm currently working with iOS Stack Technologies: Swift, UIKit, SwiftUI, API Rest, JSON data manipulations, MVVM, MVC, ViewCode..
 
 ## ⚠️ My iOS Repos:
 
