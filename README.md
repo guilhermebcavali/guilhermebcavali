@@ -2,19 +2,13 @@
 
 <h3>I'm Guilherme Cavali! Welcome to my GitHub profile!</h3>
 
-💻 I'm currently working with iOS Stack Technologies: Swift, UIKit, SwiftUI, MVVM, MVC, ViewCode..</br>
+💻 I'm currently working as a Full-Stack Developer Web & Mobile with these technologies: Swift, Java, Javascript, HTML, CSS, Php, Python...</br>
 🍎 I'm alumni at Apple Developer Academy program in Brazil</br>
-👨‍💻 I am a Software Engineer student at Pontifical Catholic University of Rio Grande do Sul (PUCRS)</br>
-
-## ⚠️ My iOS Repos:
-
-For privacy and confidentiality reasons, all my repositories using Apple’s Swift language are private. However, you can check out my projects at the portfolio link below!
+👨‍💻 I am a Systems Analysis and Development student at Unisinos University.</br>
 
 ## My Portfolio:
 
 👉 You can see a bit more of my work by visiting my portfolio at this link: https://bit.ly/my-apps-portfolio
-
-## My Tech Stack (for now 😏)
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
